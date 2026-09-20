@@ -67,6 +67,7 @@ export default function RootLayout({
         <link rel="canonical" href="https://azino777casino12.vercel.app/" />
         <meta name="theme-color" content="#0f2744" />
         <meta name="color-scheme" content="dark" />
+        <meta name="yandex-verification" content="af432378ec122bef" />
       </head>
       <body className="antialiased">
         {children}
